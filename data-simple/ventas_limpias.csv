@@ -1,0 +1,13 @@
+pedido_id,mes,categoria,ciudad,cantidad,importe
+101,ene,Electronica,Madrid,2,250.0
+102,ene,Hogar,Madrid,1,45.0
+103,ene,Electronica,Barcelona,1,120.0
+104,feb,Hogar,Barcelona,3,90.0
+105,feb,Electronica,Madrid,1,300.0
+106,feb,Ropa,Madrid,2,60.0
+107,mar,Ropa,Barcelona,1,35.0
+108,mar,Electronica,Barcelona,1,180.0
+109,mar,Hogar,Madrid,2,75.0
+110,mar,Ropa,Barcelona,1,40.0
+111,abr,Electronica,Madrid,1,210.0
+112,abr,Hogar,Barcelona,2,110.0
